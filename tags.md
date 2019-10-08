@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 網誌分類
+title: Tags
 permalink: /tags/
 ---
 

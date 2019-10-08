@@ -14,7 +14,7 @@ layout: default
 
   <!-- <ul class="tags"> -->
   <div>
-  分類: 
+  Tags: 
     {% for tag in page.tags %}
       <a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a>
     {% endfor %}
@@ -23,7 +23,7 @@ layout: default
 
   <div class="date">
     <!-- Written on {{ page.date | date: "%B %e, %Y" }}  -->
-    寫作日期： {{ page.date | date: "%Y-%m-%d" }}
+    Create date： {{ page.date | date: "%Y-%m-%d" }}
   </div>
   <br/>
   <div class="share">
@@ -72,7 +72,7 @@ layout: default
 	  {% endfor %}
 	  
 	  {% if showRelatedPost >= 1 %}
-		  <h3>相關文章:</h3>
+		  <h3>Related Post:</h3>
 		  <ul>
 		    {{ relatedPost }}
 		  </ul> 
@@ -82,7 +82,7 @@ layout: default
 	
 	</div>
 	
-	<h3>隨機文章:</h3>
+	<h3>Random Post:</h3>
 	<div id="randomPosts">
 	</div>
 

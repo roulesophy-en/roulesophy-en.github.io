@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 自我介紹
+title: About me
 permalink: /about/
 ---
 
+<!--
 香港的軟件工程師（Software Engineer）一名，因工作關係也需要學習到關於金融（Finance）和專案管理（Project Management）的知識。
 
 擁有 電腦科學學士 和 金融碩士 學位，亦到過台灣參與多個專案管理的課程。
@@ -18,3 +19,4 @@ permalink: /about/
 
 * [visual_vocab_r](https://www.instagram.com/visual_vocab_r/)：分享一些正在學習的視覺詞語，就是如何使用畫簡單的圖來表達文字。
 * [index_card_slides](https://www.instagram.com/index_card_slides/)：使用 3x5 的索引卡（index card）作限制，並在上面畫一些東西來表達一些觀念。
+-->
