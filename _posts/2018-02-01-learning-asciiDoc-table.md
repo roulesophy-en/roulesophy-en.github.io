@@ -1,10 +1,10 @@
 ---
-filename: 2018-02-01-learnig-asciiDoc-table.md
+filename: 2018-02-01-learning-asciiDoc-table.md
 layout: post
 title: Learning AsciiDoc Table 
 tags: Programming
 date: 2018-02-01
-comments: true
+comments: false
 ---
 
 ![]({{ site.baseurl }}/images/20180201-1.jpeg)  
