@@ -61,7 +61,6 @@ It is possible to add some attributes to the table. For example, we can set the 
 |info 1 |info 2 |info 3
 |info 4 |info 5 |info 6
 |===
----
 ```
 
 ![]({{ site.baseurl }}/images/20180201-5.png)
@@ -127,8 +126,6 @@ a|info 2
 ![]({{ site.baseurl }}/images/20180201-8.png)
 
 # > Merging cell
-
-我們可以在每個儲存格前的 `|` 前定義每個儲存格所佔的欄 (row) 數和列 (column) 數。
 
 We can define number of span by some syntax `|` before each cell. For example:
 
