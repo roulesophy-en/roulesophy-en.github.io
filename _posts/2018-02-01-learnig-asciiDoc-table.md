@@ -162,7 +162,7 @@ In `info 5`, since this cell has three columns, 3 cells below are also blank. Si
 |===
 ```
 
-Finally is a most difficult example:
+Finally it is the most difficult one:
 
 ```
 [cols=",,,", options="header"]
